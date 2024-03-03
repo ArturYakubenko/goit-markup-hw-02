@@ -174,3 +174,12 @@ footer {
 .link {
         background-color: #FFFFFF;
 }
+
+.emeil, .phone {
+        color: #434455;
+}
+
+.emeil:hover, .emeil:focus,
+.phone:hover, .phone:hover {
+        color: #404bbf;
+}

@@ -179,6 +179,6 @@ footer {
         color: #434455;
 }
 
-.emeil:hover, .emeil:focus, {
+.emeil:hover, .emeil:focus {
         color: #404bbf;
 }

@@ -47,7 +47,7 @@ a {
     color: #2e2f42;
 }
 
-.home:focus .home:hover {
+.home:focus, .home:hover {
         color: #404bbf;
 }
 

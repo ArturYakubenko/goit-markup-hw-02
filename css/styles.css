@@ -95,11 +95,14 @@ a {
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
+        text-transform: capitalize;
+        color: #2e2f42;
 }
 
 .gray-back {
         background: #f4f4fd;
-        text-transform: capitalize
+        text-transform: capitalize;
+        color: #2e2f42;
 }
 
 .name {
@@ -143,4 +146,15 @@ footer {
 
 .click:hover, .click:focus {
         background-color: #404BBF;
+}
+
+.advantages {
+        color: #2e2f42;
+}
+
+.down {
+        color: #4d5ae5;
+}
+.white-word {
+        color: #f4f4fd
 }
